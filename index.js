@@ -1,9 +1,9 @@
 const getUsers = () => {
     return [
         {name: 'Hamza', age: 16 },
-        {name: 'Seif', age: 17 },
-        {name: 'Daycem', age: 17 },
-        {name: 'Jazil', age: 16 },
+        {name: 'S', age: 17 },
+        {name: 'D', age: 17 },
+        {name: 'J', age: 16 },
     ];
 };
 
